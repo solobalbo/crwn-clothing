@@ -41,6 +41,7 @@
         "key",
         "measurement",
         "messaging",
+        "middlewares",
         "nda",
         "project",
         "q",
