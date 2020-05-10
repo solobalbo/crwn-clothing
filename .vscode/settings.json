@@ -43,6 +43,7 @@
         "messaging",
         "middlewares",
         "nda",
+        "persistor",
         "project",
         "q",
         "qoi",
